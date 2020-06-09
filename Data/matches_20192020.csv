@@ -1,0 +1,233 @@
+,Season,Round,Home,Away,HomeGoals,AwayGoals,Result,HomePoints,AwayPoints
+0,2019-2020,1,PEC Zwolle,Willem II,1,3,2,0,3
+1,2019-2020,1,Vitesse,AFC Ajax,2,2,3,1,1
+2,2019-2020,1,FC Emmen,FC Groningen,0,1,2,0,3
+3,2019-2020,1,VVV-Venlo,RKC Waalwijk,3,1,1,3,0
+4,2019-2020,1,FC Twente,PSV,1,1,3,1,1
+5,2019-2020,1,Heracles Almelo,sc Heerenveen,0,4,2,0,3
+6,2019-2020,1,Feyenoord,Sparta Rotterdam,2,2,3,1,1
+7,2019-2020,1,ADO Den Haag,FC Utrecht,2,4,2,0,3
+8,2019-2020,1,AZ Alkmaar,Fortuna Sittard,4,0,1,3,0
+9,2019-2020,2,Sparta Rotterdam,VVV-Venlo,4,1,1,3,0
+10,2019-2020,2,FC Groningen,FC Twente,1,3,2,0,3
+11,2019-2020,2,AFC Ajax,FC Emmen,5,0,1,3,0
+12,2019-2020,2,Willem II,Vitesse,0,2,2,0,3
+13,2019-2020,2,Fortuna Sittard,Heracles Almelo,1,1,3,1,1
+14,2019-2020,2,sc Heerenveen,Feyenoord,1,1,3,1,1
+15,2019-2020,2,RKC Waalwijk,AZ Alkmaar,0,2,2,0,3
+16,2019-2020,2,FC Utrecht,PEC Zwolle,3,1,1,3,0
+17,2019-2020,2,PSV,ADO Den Haag,3,1,1,3,0
+18,2019-2020,3,Vitesse,PEC Zwolle,3,0,1,3,0
+19,2019-2020,3,ADO Den Haag,Sparta Rotterdam,1,2,2,0,3
+20,2019-2020,3,VVV-Venlo,AFC Ajax,1,4,2,0,3
+21,2019-2020,3,FC Emmen,sc Heerenveen,2,0,1,3,0
+22,2019-2020,3,Fortuna Sittard,Willem II,2,3,2,0,3
+23,2019-2020,3,FC Twente,RKC Waalwijk,3,3,3,1,1
+24,2019-2020,3,Feyenoord,FC Utrecht,1,1,3,1,1
+25,2019-2020,3,AZ Alkmaar,FC Groningen,0,0,3,1,1
+26,2019-2020,3,Heracles Almelo,PSV,0,2,2,0,3
+27,2019-2020,4,Willem II,FC Emmen,2,1,1,3,0
+28,2019-2020,4,Heracles Almelo,Vitesse,1,1,3,1,1
+29,2019-2020,4,sc Heerenveen,FC Twente,0,0,3,1,1
+30,2019-2020,4,RKC Waalwijk,ADO Den Haag,0,3,2,0,3
+31,2019-2020,4,FC Utrecht,VVV-Venlo,1,2,2,0,3
+32,2019-2020,4,PEC Zwolle,Sparta Rotterdam,2,2,3,1,1
+33,2019-2020,4,PSV,FC Groningen,3,1,1,3,0
+34,2019-2020,4,AFC Ajax,Fortuna Sittard,5,0,1,3,0
+35,2019-2020,4,Feyenoord,AZ Alkmaar,0,3,2,0,3
+36,2019-2020,5,FC Emmen,PEC Zwolle,1,3,2,0,3
+37,2019-2020,5,sc Heerenveen,Fortuna Sittard,1,1,3,1,1
+38,2019-2020,5,FC Groningen,Heracles Almelo,1,2,2,0,3
+39,2019-2020,5,ADO Den Haag,VVV-Venlo,1,0,1,3,0
+40,2019-2020,5,FC Twente,FC Utrecht,3,1,1,3,0
+41,2019-2020,5,Sparta Rotterdam,AFC Ajax,1,4,2,0,3
+42,2019-2020,5,Willem II,Feyenoord,0,1,2,0,3
+43,2019-2020,5,Vitesse,AZ Alkmaar,2,1,1,3,0
+44,2019-2020,5,RKC Waalwijk,PSV,1,3,2,0,3
+45,2019-2020,6,AZ Alkmaar,Sparta Rotterdam,5,1,1,3,0
+46,2019-2020,6,AFC Ajax,sc Heerenveen,4,1,1,3,0
+47,2019-2020,6,VVV-Venlo,FC Groningen,2,1,1,3,0
+48,2019-2020,6,PSV,Vitesse,5,0,1,3,0
+49,2019-2020,6,FC Utrecht,FC Emmen,3,1,1,3,0
+50,2019-2020,6,PEC Zwolle,RKC Waalwijk,6,2,1,3,0
+51,2019-2020,6,Feyenoord,ADO Den Haag,3,2,1,3,0
+52,2019-2020,6,Heracles Almelo,Willem II,4,1,1,3,0
+53,2019-2020,6,Fortuna Sittard,FC Twente,2,3,2,0,3
+54,2019-2020,7,FC Twente,Heracles Almelo,2,3,2,0,3
+55,2019-2020,7,Sparta Rotterdam,RKC Waalwijk,4,0,1,3,0
+56,2019-2020,7,FC Groningen,PEC Zwolle,2,0,1,3,0
+57,2019-2020,7,Willem II,VVV-Venlo,1,0,1,3,0
+58,2019-2020,7,Vitesse,Fortuna Sittard,4,2,1,3,0
+59,2019-2020,7,sc Heerenveen,FC Utrecht,1,1,3,1,1
+60,2019-2020,7,FC Emmen,Feyenoord,3,3,3,1,1
+61,2019-2020,7,ADO Den Haag,AZ Alkmaar,0,1,2,0,3
+62,2019-2020,7,PSV,AFC Ajax,1,1,3,1,1
+63,2019-2020,8,FC Emmen,ADO Den Haag,3,0,1,3,0
+64,2019-2020,8,VVV-Venlo,sc Heerenveen,0,3,2,0,3
+65,2019-2020,8,AFC Ajax,FC Groningen,2,0,1,3,0
+66,2019-2020,8,Fortuna Sittard,Sparta Rotterdam,0,0,3,1,1
+67,2019-2020,8,RKC Waalwijk,Vitesse,1,2,2,0,3
+68,2019-2020,8,PEC Zwolle,PSV,0,4,2,0,3
+69,2019-2020,8,FC Utrecht,Willem II,2,0,1,3,0
+70,2019-2020,8,AZ Alkmaar,Heracles Almelo,2,0,1,3,0
+71,2019-2020,8,Feyenoord,FC Twente,5,1,1,3,0
+72,2019-2020,9,FC Groningen,RKC Waalwijk,3,0,1,3,0
+73,2019-2020,9,Heracles Almelo,FC Emmen,2,0,1,3,0
+74,2019-2020,9,Sparta Rotterdam,FC Twente,2,1,1,3,0
+75,2019-2020,9,Vitesse,FC Utrecht,2,1,1,3,0
+76,2019-2020,9,sc Heerenveen,PEC Zwolle,1,0,1,3,0
+77,2019-2020,9,ADO Den Haag,AFC Ajax,0,2,2,0,3
+78,2019-2020,9,Fortuna Sittard,Feyenoord,4,2,1,3,0
+79,2019-2020,9,PSV,VVV-Venlo,4,1,1,3,0
+80,2019-2020,9,Willem II,AZ Alkmaar,1,1,3,1,1
+81,2019-2020,10,AZ Alkmaar,sc Heerenveen,2,4,2,0,3
+82,2019-2020,10,RKC Waalwijk,AFC Ajax,1,2,2,0,3
+83,2019-2020,10,FC Twente,Willem II,0,1,2,0,3
+84,2019-2020,10,FC Utrecht,PSV,3,0,1,3,0
+85,2019-2020,10,VVV-Venlo,Vitesse,0,4,2,0,3
+86,2019-2020,10,PEC Zwolle,ADO Den Haag,3,1,1,3,0
+87,2019-2020,10,FC Emmen,Fortuna Sittard,2,1,1,3,0
+88,2019-2020,10,FC Groningen,Sparta Rotterdam,2,0,1,3,0
+89,2019-2020,10,Feyenoord,Heracles Almelo,1,1,3,1,1
+90,2019-2020,11,FC Twente,FC Emmen,4,1,1,3,0
+91,2019-2020,11,Willem II,RKC Waalwijk,2,1,1,3,0
+92,2019-2020,11,Fortuna Sittard,VVV-Venlo,4,1,1,3,0
+93,2019-2020,11,Vitesse,ADO Den Haag,0,2,2,0,3
+94,2019-2020,11,Heracles Almelo,PEC Zwolle,4,0,1,3,0
+95,2019-2020,11,sc Heerenveen,FC Groningen,1,1,3,1,1
+96,2019-2020,11,PSV,AZ Alkmaar,0,4,2,0,3
+97,2019-2020,11,Sparta Rotterdam,FC Utrecht,1,2,2,0,3
+98,2019-2020,11,AFC Ajax,Feyenoord,4,0,1,3,0
+99,2019-2020,12,PEC Zwolle,AFC Ajax,2,4,2,0,3
+100,2019-2020,12,RKC Waalwijk,Heracles Almelo,2,0,1,3,0
+101,2019-2020,12,Sparta Rotterdam,PSV,2,2,3,1,1
+102,2019-2020,12,AZ Alkmaar,FC Twente,3,0,1,3,0
+103,2019-2020,12,FC Emmen,Vitesse,2,1,1,3,0
+104,2019-2020,12,FC Utrecht,Fortuna Sittard,6,0,1,3,0
+105,2019-2020,12,VVV-Venlo,Feyenoord,0,3,2,0,3
+106,2019-2020,12,FC Groningen,Willem II,2,0,1,3,0
+107,2019-2020,12,ADO Den Haag,sc Heerenveen,1,1,3,1,1
+108,2019-2020,13,Vitesse,FC Groningen,1,2,2,0,3
+109,2019-2020,13,sc Heerenveen,Sparta Rotterdam,2,1,1,3,0
+110,2019-2020,13,Fortuna Sittard,ADO Den Haag,1,0,1,3,0
+111,2019-2020,13,Heracles Almelo,VVV-Venlo,6,1,1,3,0
+112,2019-2020,13,AFC Ajax,FC Utrecht,4,0,1,3,0
+113,2019-2020,13,Willem II,PSV,2,1,1,3,0
+114,2019-2020,13,FC Twente,PEC Zwolle,2,1,1,3,0
+115,2019-2020,13,Feyenoord,RKC Waalwijk,3,2,1,3,0
+116,2019-2020,13,AZ Alkmaar,FC Emmen,3,0,1,3,0
+117,2019-2020,14,FC Utrecht,AZ Alkmaar,0,3,2,0,3
+118,2019-2020,14,PEC Zwolle,Fortuna Sittard,3,1,1,3,0
+119,2019-2020,14,AFC Ajax,Heracles Almelo,4,1,1,3,0
+120,2019-2020,14,ADO Den Haag,Willem II,3,3,3,1,1
+121,2019-2020,14,FC Groningen,Feyenoord,1,1,3,1,1
+122,2019-2020,14,PSV,sc Heerenveen,2,1,1,3,0
+123,2019-2020,14,RKC Waalwijk,FC Emmen,1,1,3,1,1
+124,2019-2020,14,VVV-Venlo,FC Twente,2,1,1,3,0
+125,2019-2020,14,Sparta Rotterdam,Vitesse,2,0,1,3,0
+126,2019-2020,15,sc Heerenveen,Vitesse,3,2,1,3,0
+127,2019-2020,15,Willem II,Sparta Rotterdam,4,0,1,3,0
+128,2019-2020,15,Fortuna Sittard,FC Groningen,1,0,1,3,0
+129,2019-2020,15,Heracles Almelo,ADO Den Haag,4,0,1,3,0
+130,2019-2020,15,FC Twente,AFC Ajax,2,5,2,0,3
+131,2019-2020,15,FC Utrecht,RKC Waalwijk,0,1,2,0,3
+132,2019-2020,15,Feyenoord,PEC Zwolle,1,0,1,3,0
+133,2019-2020,15,AZ Alkmaar,VVV-Venlo,1,0,1,3,0
+134,2019-2020,15,FC Emmen,PSV,1,1,3,1,1
+135,2019-2020,16,AFC Ajax,Willem II,0,2,2,0,3
+136,2019-2020,16,ADO Den Haag,FC Twente,0,0,3,1,1
+137,2019-2020,16,PSV,Fortuna Sittard,5,0,1,3,0
+138,2019-2020,16,VVV-Venlo,FC Emmen,2,0,1,3,0
+139,2019-2020,16,PEC Zwolle,AZ Alkmaar,0,3,2,0,3
+140,2019-2020,16,Vitesse,Feyenoord,0,0,3,1,1
+141,2019-2020,16,FC Groningen,FC Utrecht,0,1,2,0,3
+142,2019-2020,16,RKC Waalwijk,sc Heerenveen,1,3,2,0,3
+143,2019-2020,16,Sparta Rotterdam,Heracles Almelo,0,0,3,1,1
+144,2019-2020,17,sc Heerenveen,Willem II,1,2,2,0,3
+145,2019-2020,17,ADO Den Haag,FC Groningen,1,1,3,1,1
+146,2019-2020,17,Fortuna Sittard,RKC Waalwijk,3,2,1,3,0
+147,2019-2020,17,VVV-Venlo,PEC Zwolle,1,2,2,0,3
+148,2019-2020,17,FC Twente,Vitesse,0,3,2,0,3
+149,2019-2020,17,FC Emmen,Sparta Rotterdam,2,0,1,3,0
+150,2019-2020,17,Feyenoord,PSV,3,1,1,3,0
+151,2019-2020,17,AZ Alkmaar,AFC Ajax,1,0,1,3,0
+152,2019-2020,17,Heracles Almelo,FC Utrecht,1,3,2,0,3
+153,2019-2020,18,RKC Waalwijk,FC Twente,3,0,1,3,0
+154,2019-2020,18,sc Heerenveen,Heracles Almelo,1,1,3,1,1
+155,2019-2020,18,PSV,PEC Zwolle,4,1,1,3,0
+156,2019-2020,18,Sparta Rotterdam,AZ Alkmaar,3,0,1,3,0
+157,2019-2020,18,Willem II,Fortuna Sittard,0,0,3,1,1
+158,2019-2020,18,AFC Ajax,ADO Den Haag,6,1,1,3,0
+159,2019-2020,18,FC Groningen,FC Emmen,2,0,1,3,0
+160,2019-2020,18,FC Utrecht,Feyenoord,1,2,2,0,3
+161,2019-2020,18,Vitesse,VVV-Venlo,3,0,1,3,0
+162,2019-2020,19,PEC Zwolle,FC Utrecht,3,3,3,1,1
+163,2019-2020,19,Fortuna Sittard,Vitesse,1,3,2,0,3
+164,2019-2020,19,FC Twente,FC Groningen,0,0,3,1,1
+165,2019-2020,19,Feyenoord,sc Heerenveen,3,1,1,3,0
+166,2019-2020,19,AZ Alkmaar,Willem II,1,3,2,0,3
+167,2019-2020,19,VVV-Venlo,PSV,1,1,3,1,1
+168,2019-2020,19,AFC Ajax,Sparta Rotterdam,2,1,1,3,0
+169,2019-2020,19,FC Emmen,Heracles Almelo,1,0,1,3,0
+170,2019-2020,19,ADO Den Haag,RKC Waalwijk,2,0,1,3,0
+171,2019-2020,20,FC Utrecht,ADO Den Haag,4,0,1,3,0
+172,2019-2020,20,sc Heerenveen,AZ Alkmaar,1,2,2,0,3
+173,2019-2020,20,Heracles Almelo,Feyenoord,2,3,2,0,3
+174,2019-2020,20,RKC Waalwijk,VVV-Venlo,1,2,2,0,3
+175,2019-2020,20,Sparta Rotterdam,Fortuna Sittard,1,1,3,1,1
+176,2019-2020,20,Vitesse,FC Emmen,1,1,3,1,1
+177,2019-2020,20,FC Groningen,AFC Ajax,2,1,1,3,0
+178,2019-2020,20,Willem II,PEC Zwolle,0,0,3,1,1
+179,2019-2020,20,PSV,FC Twente,1,1,3,1,1
+180,2019-2020,21,AZ Alkmaar,RKC Waalwijk,4,0,1,3,0
+181,2019-2020,21,ADO Den Haag,Vitesse,0,0,3,1,1
+182,2019-2020,21,Feyenoord,FC Emmen,3,0,1,3,0
+183,2019-2020,21,FC Twente,Sparta Rotterdam,2,0,1,3,0
+184,2019-2020,21,PEC Zwolle,FC Groningen,1,0,1,3,0
+185,2019-2020,21,Willem II,Heracles Almelo,1,0,1,3,0
+186,2019-2020,21,Fortuna Sittard,sc Heerenveen,2,1,1,3,0
+187,2019-2020,21,VVV-Venlo,FC Utrecht,1,1,3,1,1
+188,2019-2020,21,AFC Ajax,PSV,1,0,1,3,0
+189,2019-2020,22,Heracles Almelo,Fortuna Sittard,2,0,1,3,0
+190,2019-2020,22,FC Groningen,Vitesse,1,0,1,3,0
+191,2019-2020,22,sc Heerenveen,VVV-Venlo,1,1,3,1,1
+192,2019-2020,22,PSV,Willem II,3,0,1,3,0
+193,2019-2020,22,RKC Waalwijk,PEC Zwolle,0,0,3,1,1
+194,2019-2020,22,FC Emmen,FC Twente,2,0,1,3,0
+195,2019-2020,22,Sparta Rotterdam,ADO Den Haag,4,2,1,3,0
+196,2019-2020,23,VVV-Venlo,Heracles Almelo,1,0,1,3,0
+197,2019-2020,23,FC Twente,AZ Alkmaar,2,0,1,3,0
+198,2019-2020,23,ADO Den Haag,PSV,0,3,2,0,3
+199,2019-2020,23,Fortuna Sittard,FC Emmen,0,0,3,1,1
+200,2019-2020,23,Vitesse,sc Heerenveen,4,2,1,3,0
+201,2019-2020,23,AFC Ajax,RKC Waalwijk,3,0,1,3,0
+202,2019-2020,23,Sparta Rotterdam,FC Groningen,1,2,2,0,3
+203,2019-2020,23,Willem II,FC Utrecht,1,1,3,1,1
+204,2019-2020,23,PEC Zwolle,Feyenoord,3,4,2,0,3
+205,2019-2020,24,RKC Waalwijk,Sparta Rotterdam,0,1,2,0,3
+206,2019-2020,24,FC Emmen,Willem II,4,2,1,3,0
+207,2019-2020,24,Feyenoord,Fortuna Sittard,2,1,1,3,0
+208,2019-2020,24,sc Heerenveen,ADO Den Haag,2,2,3,1,1
+209,2019-2020,24,FC Groningen,VVV-Venlo,0,1,2,0,3
+210,2019-2020,24,FC Utrecht,FC Twente,2,1,1,3,0
+211,2019-2020,24,AZ Alkmaar,PEC Zwolle,2,0,1,3,0
+212,2019-2020,24,Vitesse,PSV,1,2,2,0,3
+213,2019-2020,24,Heracles Almelo,AFC Ajax,1,0,1,3,0
+214,2019-2020,25,Willem II,FC Groningen,3,1,1,3,0
+215,2019-2020,25,ADO Den Haag,Heracles Almelo,0,0,3,1,1
+216,2019-2020,25,VVV-Venlo,Fortuna Sittard,0,0,3,1,1
+217,2019-2020,25,PEC Zwolle,Vitesse,4,3,1,3,0
+218,2019-2020,25,FC Twente,sc Heerenveen,2,3,2,0,3
+219,2019-2020,25,RKC Waalwijk,FC Utrecht,2,1,1,3,0
+220,2019-2020,25,PSV,Feyenoord,1,1,3,1,1
+221,2019-2020,25,Sparta Rotterdam,FC Emmen,5,1,1,3,0
+222,2019-2020,25,AFC Ajax,AZ Alkmaar,0,2,2,0,3
+223,2019-2020,26,Fortuna Sittard,PEC Zwolle,1,1,3,1,1
+224,2019-2020,26,AZ Alkmaar,ADO Den Haag,4,0,1,3,0
+225,2019-2020,26,FC Emmen,VVV-Venlo,3,0,1,3,0
+226,2019-2020,26,Vitesse,FC Twente,1,0,1,3,0
+227,2019-2020,26,sc Heerenveen,AFC Ajax,1,3,2,0,3
+228,2019-2020,26,FC Utrecht,Sparta Rotterdam,5,1,1,3,0
+229,2019-2020,26,Feyenoord,Willem II,2,0,1,3,0
+230,2019-2020,26,Heracles Almelo,RKC Waalwijk,4,2,1,3,0
+231,2019-2020,26,FC Groningen,PSV,0,1,2,0,3
